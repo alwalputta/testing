@@ -1,5 +1,8 @@
 public class Three {
   String message = "foo";
+  String message2 = "foo";
+  String message3 = "foo";
+  String message4 = "foo";
 
   public String foo() {
     return message;
